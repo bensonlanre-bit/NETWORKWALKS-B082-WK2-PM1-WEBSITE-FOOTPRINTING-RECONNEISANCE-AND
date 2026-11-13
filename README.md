@@ -1,6 +1,6 @@
 FOOTINGPRINTING, RECONNAISSSANCE AND NETWORK SCANNING
 
-PROECT OVERVIEW
+PROJECT OVERVIEW
 
 This project demonstrates practical defensive cybersecurity techniques using Kali Linux. It covers footprinting, reconnaissance, network discovery, port scanning and security analysis in an authorised laboratory environment.
 
